@@ -68,7 +68,7 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "Grabados",
           "submenu": [
             {
               "menuLabel": "All clothing",
@@ -89,7 +89,7 @@
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": "Pinturas",
           "submenu": [
             {
               "menuLabel": "All clothing",
@@ -114,7 +114,7 @@
           ]
         },
         {
-          "categoryLabel": "accessories",
+          "categoryLabel": "Fotografías",
           "submenu": [
             {
               "menuLabel": "caps & scarves",
