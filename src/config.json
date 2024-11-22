@@ -1,15 +1,11 @@
 {
   "currencyList": [
-    { "value": "AUS", "label": "Australia (AUS $)" },
-    { "value": "CAD", "label": "Canada (CAD $)" },
-    { "value": "USD", "label": "United States (US $)" },
-    { "value": "EUR", "label": "Germany (EUR €)" },
-    { "value": "HKD", "label": "Hong Kong (HKD $)" }
+    { "value": "CHI", "label": "Chile (PES $)" },
+    { "value": "USD", "label": "United States (US $)" }
   ],
   "languageList": [
     { "value": "english", "label": "English" },
-    { "value": "german", "label": "Deutsch" },
-    { "value": "mandarin", "label": "普通话" }
+    { "value": "spanish", "label": "Español" }
   ],
   "social": {
     "facebook": "https://www.facebook.com/marketplace/profile/1140851136",
