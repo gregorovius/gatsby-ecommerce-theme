@@ -12,10 +12,10 @@
     { "value": "mandarin", "label": "普通话" }
   ],
   "social": {
-    "facebook": "https://www.facebook.com/MatterDesign/",
-    "instagram": "https://www.instagram.com/p/CVwMlChIWmW",
-    "twitter": "https://twitter.com/hellomatter",
-    "youtube": "https://www.youtube.com/channel/UCEOu94Haa--QmltsSawflXg"
+    "facebook": "https://www.facebook.com/marketplace/profile/1140851136",
+    "instagram": "#",
+    "twitter": "#",
+    "youtube": "#"
   },
   "paymentOptions": {
     "visa": true,
@@ -64,26 +64,27 @@
   ],
   "headerLinks": [
     {
-      "menuLabel": "Shop",
+      "menuLabel": "Galería",
       "menuLink": "/shop",
       "category": [
         {
           "categoryLabel": "Grabados",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Aguafuerte",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Aguatinta",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "Xilografía",
               "menuLink": "/shop"
             },
+
             {
-              "menuLabel": "trousers",
+              "menuLabel": "Litografía",
               "menuLink": "/shop"
             }
           ]
@@ -92,23 +93,15 @@
           "categoryLabel": "Pinturas",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Acrílico",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Óleo",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "trousers",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "pants",
+              "menuLabel": "Técnica mixta",
               "menuLink": "/shop"
             }
           ]
@@ -117,11 +110,11 @@
           "categoryLabel": "Fotografías",
           "submenu": [
             {
-              "menuLabel": "caps & scarves",
+              "menuLabel": "Análogo",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "bags",
+              "menuLabel": "Digital",
               "menuLink": "/shop"
             }
           ]
@@ -129,12 +122,12 @@
       ]
     },
     {
-      "menuLabel": "journal",
+      "menuLabel": "Blog",
       "menuLink": "/blog",
       "category": null
     },
     {
-      "menuLabel": "About",
+      "menuLabel": "Acerca de mí",
       "menuLink": "/about",
       "category": null
     }
